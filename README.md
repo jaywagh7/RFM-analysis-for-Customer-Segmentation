@@ -1,8 +1,8 @@
 This project is part of our final year submission for the Bachelor of Engineering (Computer Engineering). 
 # Team Members
-1)Jayesh Wagh
-2)Bhupesh Bhadane
-3)Nandini Ahire
+*Jayesh Wagh
+*Bhupesh Bhadane
+*Nandini Ahire
 
 # Customer-Segmentation-with-RFM-Analysis
 This project is created to segment customer based on their buying pattern using RFM Analysis. Further creating K-Mean Clustering model for more precise segmentation for optimize result
